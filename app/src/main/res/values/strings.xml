@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TestFriends</string>
+
+    <!-- Signup -->
+    <string name="email">Email</string>
+    <string name="signup_screen_title">SignUp</string>
+    <string name="emailError">Wrong email pattern.</string>
+    <string name="password">Password</string>
+    <string name="passwordError">Wrong password pattern.</string>
+
+    <string name="duplicateAccountError">An account with this email already exists.</string>
+    <string name="createAccountError">Could not create an account error.</string>
+    <string name="offlineError">Please,  check your internet connection.</string>
+
+    <!-- Timeline -->
+    <string name="timeline_screen_title">Timeline</string>
+    <string name="loading">Loading</string>
+    <string name="createNewPost">Create new post</string>
+    <string name="emptyTimelineMessage">Posts are not available yet.</string>
+    <string name="fetchingTimelineError">Failed fetching the timeline</string>
+    <string name="newPostHint">What\'s on your mind?</string>
+    <string name="submitPost">Submit Post</string>
+    <string name="creatingPostError">Cannot create a new post!</string>
+    <string name="friends">Friends</string>
+    <string name="emptyFriendsMessage">Friends are not available.</string>
+
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="friends_error">Failed fetching the friends</string>
+    <string name="followFriend">follow %1$s</string>
+    <string name="unfollowFriend">Unfollow %1$s</string>
+
+</resources>
